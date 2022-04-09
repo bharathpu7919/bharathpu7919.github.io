@@ -2,13 +2,15 @@
 
 ## About me
 
-![BharathPhoto]
+![BharathPhoto](foto.png)
 
 * Dynamic cross-functional leader with broad background in agile coaching, project
 management and enterprise portfolio management.
 
 ** Worked for well known clients including DBS, E&Y, AIA, CGI, Lowes, Nordea,
 UHG, Major League Baseball, Macy's.
+
+### Mission
 
 > Specialized in agile transformation of small, medium and large organizations.
 Working experience with different cultures/client sites across of the world.
