@@ -18,8 +18,10 @@ Trained 100+ teams on Agile, SCRUM, KANBAN and SAFe.
 SAFe implementation for small medium and large organizations.
 Building strategic relationships across all levels within an organization to positively
 influence change.
-Proficient in setting up continuous integration and continuous deployment tools.
-Proficient in handling release management, application maintenance activities and RFP.
-Working experience with technologies namely Java, J2EE, GWT, Spring and Oracle
+
+### Experience
+- Proficient in setting up continuous integration and continuous deployment tools.
+- Proficient in handling release management, application maintenance activities and RFP.
+- Working experience with technologies namely Java, J2EE, GWT, Spring and Oracle
 SOA.
-Experience in using DevOps tools namely, Jenkins, GitHub, Git and Gerrit.
+- Experience in using DevOps tools namely, Jenkins, GitHub, Git and Gerrit.
